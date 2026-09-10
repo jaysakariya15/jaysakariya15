@@ -66,7 +66,7 @@ I'm building AI-powered apps and learning what it takes to take an LLM from a de
 
 ---
 
-<p align="center"><sub>Thanks for stopping by — feel free to connect on LinkedIn!</sub></p>
+<p align="center"><sub></sub></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jay+Sakariya;B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+LLM+%26+GenAI+Engineer;Building+AI+apps+with+Python%2C+Next.js+%26+React;Learning+RAG%2C+AI+Agents+%26+Open+Source+LLMs" alt="Typing animation"/>
