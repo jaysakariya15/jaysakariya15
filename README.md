@@ -62,19 +62,6 @@ I'm building AI-powered apps and learning what it takes to take an LLM from a de
 | [TOTRIPS](https://github.com/jaysakariya15/TOTRIPS) | Ticket booking app — search, book, and manage flights, hotels, and car rentals, comparing prices across providers | Java |
 | [python-practice](https://github.com/jaysakariya15/python-practice) | Python practice programs and learning journey | Python |
 
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaysakariya15&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</p>
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaysakariya15&theme=react-dark" alt="Activity Graph"/>
-</p>
 
 ---
 
