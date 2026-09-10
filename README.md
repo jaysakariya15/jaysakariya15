@@ -62,12 +62,14 @@ I'm building AI-powered apps and learning what it takes to take an LLM from a de
 | [TOTRIPS](https://github.com/jaysakariya15/TOTRIPS) | Ticket booking app — search, book, and manage flights, hotels, and car rentals, comparing prices across providers | Java |
 | [python-practice](https://github.com/jaysakariya15/python-practice) | Python practice programs and learning journey | Python |
 
+---
 
+---
 
 <p align="center"><sub>Thanks for stopping by — feel free to connect on LinkedIn!</sub></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaysakariya15/jaysakariya15/main/terminal-intro.svg" alt="Terminal animation" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=whoami;Jay+Sakariya+%E2%80%94+B.Tech+CSE+(AI+%26+ML);cat+focus.txt;Building+RAG+pipelines%2C+AI+agents+%26+full-stack+apps;.%2Fship.sh+--always" alt="Typing animation"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
