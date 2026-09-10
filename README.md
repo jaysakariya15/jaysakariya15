@@ -58,21 +58,26 @@ I'm building AI-powered apps and learning what it takes to take an LLM from a de
 
 | Project | What it does | Stack |
 |---|---|---|
+| [StudyPulse AI](https://github.com/jaysakariya15/StudyPulse) | AI-powered exam prep — upload PYQs and notes, get frequency-ranked repeated questions, RAG-grounded notes, flashcards, an AI tutor, and quizzes generated from your own material | React, FastAPI, LangChain, ChromaDB |
 | [TOTRIPS](https://github.com/jaysakariya15/TOTRIPS) | Ticket booking app — search, book, and manage flights, hotels, and car rentals, comparing prices across providers | Java |
 | [python-practice](https://github.com/jaysakariya15/python-practice) | Python practice programs and learning journey | Python |
 
 ---
 
-## GitHub Stats
+## Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaysakariya15&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jaysakariya15&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </p>
 
+## Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaysakariya15" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaysakariya15&theme=react-dark" alt="Activity Graph"/>
 </p>
 
 ---
 
 <p align="center"><sub>Thanks for stopping by — feel free to connect on LinkedIn!</sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
